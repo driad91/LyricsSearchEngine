@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/D063551/Documents/UniMa/lucene-5.2.1/analysis/common/lucene-analyzers-common-5.2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://lucene.apache.org/core/5_2_1/analyzers-common/index.html"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/D063551/Documents/UniMa/lucene-5.2.1/core/lucene-core-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D063551/Documents/UniMa/lucene-5.2.1/queryparser/lucene-queryparser-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/D063551/Documents/UniMa/sqlite-jdbc-3.8.10.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
